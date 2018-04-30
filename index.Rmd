@@ -1,0 +1,37 @@
+--- 
+title: "A Guide to Data Collection Using Open Data Kit"
+author: "Ernest Guevarra"
+date: "`r Sys.Date()`"
+knit: "bookdown::render_book"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: TRUE
+links-as-notes: FALSE
+colorlinks: TRUE
+fontsize: 12pt
+url: https\://odk-guide.guevarra.io/
+github-repo: ernestguevarra/odk-guide
+cover-image: images/ODKLogoCorner.png
+description: ""
+---
+
+
+# Welcome {-}
+
+![](images/ODKLogoCorner.png)
+
+This is the website for *A Guide to Data Collection Using Open Data Kit*. This book is built in R using [`bookdown` package](https://bookdown.org). Visit the [GitHub repository for this site](https://github.com/ernestguevarra/odk-guide) to view the source code for book and if you want to build your own copy of the book.
+
+# Introduction {-}
+
+**Open Data Kit (ODK)** is a free and open-source set of tools which help organizations author, field, and manage mobile data collection solutions. **ODK** provides an out-of-the-box solution for users to:
+
+* Build a data collection form or survey (**XLSForm** is recommended for larger forms);
+
+* Collect the data on a mobile device and send it to a server; and
+
+* Aggregate the collected data on a server and extract it in useful formats.
+

@@ -1,0 +1,5 @@
+[
+["index.html", "A Guide to Data Collection Using Open Data Kit Welcome", " A Guide to Data Collection Using Open Data Kit Ernest Guevarra 2018-04-30 Welcome This is the website for A Guide to Data Collection Using Open Data Kit. This book is built in R using bookdown package. Visit the GitHub repository for this site to view the source code for book and if you want to build your own copy of the book. "],
+["introduction.html", "Introduction", " Introduction Open Data Kit (ODK) is a free and open-source set of tools which help organizations author, field, and manage mobile data collection solutions. ODK provides an out-of-the-box solution for users to: Build a data collection form or survey (XLSForm is recommended for larger forms); Collect the data on a mobile device and send it to a server; and Aggregate the collected data on a server and extract it in useful formats. "],
+["getting-started-with-odk.html", " 1 Getting started with ODK", " 1 Getting started with ODK "]
+]
